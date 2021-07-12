@@ -1,5 +1,6 @@
 # SyntaxComparison
-I checked the syntax of some coding languagues.
+I checked the syntax of some coding languages.
 
-### Languagues
+### Languages
 - Java
+- Python
